@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 80ce1aa015dcb984ca3702c51da900fc
+timeCreated: 1431630165
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33936
+  packageName: Decrepit Dungeon LITE
+  packageVersion: 1.5
+  assetPath: Assets/Decrepit Dungeon LITE/Prefabs/Walls/Sewer_Tunnel_A.prefab
+  uploadId: 84005

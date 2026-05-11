@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 74de2f4c8e5ca0044b37d53588630521
+timeCreated: 1426808254
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33936
+  packageName: Decrepit Dungeon LITE
+  packageVersion: 1.5
+  assetPath: Assets/Decrepit Dungeon LITE/Prefabs/Props/Torch.prefab
+  uploadId: 84005

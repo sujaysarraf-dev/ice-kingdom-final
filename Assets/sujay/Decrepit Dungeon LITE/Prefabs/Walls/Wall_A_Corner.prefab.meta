@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5486cf426b3db264ea63a102df96ca44
+timeCreated: 1432922444
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33936
+  packageName: Decrepit Dungeon LITE
+  packageVersion: 1.5
+  assetPath: Assets/Decrepit Dungeon LITE/Prefabs/Walls/Wall_A_Corner.prefab
+  uploadId: 84005
